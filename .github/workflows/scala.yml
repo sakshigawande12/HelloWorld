@@ -3,7 +3,10 @@ name: Scala CI
 on:
   pull_request:
     branches: [pull-request-using-gh-actions]
+      types: [ assigned, opened, synchronize, reopened ]
 
+      # assigned,unassigned,labeled,unlabeled,opened,edited,closed,reopened,synchronize,ready_for_review,locked,unlocked,review_requested,review_request_removed
+      # you add/remove multiple labels at the same time, the event of each label will trigger its own workflow run.
 jobs:
   job1:
     name: build
