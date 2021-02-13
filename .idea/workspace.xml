@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88eb6fbd-57b8-4540-8021-ae4039e7fa53" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/scala.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/scala.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5d632b20917a61155e59$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5d632b20917a61155e59.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5d632b20917a61155e59.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8903b00d78d600295da$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8903b00d78d600295da.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d8903b00d78d600295da.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e219eaa0f66b419ebbe1$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e219eaa0f66b419ebbe1.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$e219eaa0f66b419ebbe1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/inputFileStamps/previous" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/externalDependencyClasspath/_global/streams/export" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/test/managedClasspath/_global/streams/export" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
