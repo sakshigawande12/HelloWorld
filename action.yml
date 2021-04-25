@@ -1,5 +1,5 @@
-name: "docker build"
-description: "create image and push to docker hub"
+name: "print fun"
+description: "print fun for hello world"
 runs:
   using: composite
   steps:
