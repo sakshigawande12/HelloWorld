@@ -2,7 +2,7 @@ name: Scala CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ composite-run-steps ]
 
 jobs:
   job1:
