@@ -39,5 +39,3 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: sakshigawande12/hello-world:latest
-
-
