@@ -19,6 +19,9 @@ jobs:
         
       - name: Create artifact
         run: sbt package
+
+      - id: myCompositeAction
+        uses: sakshigawande12/CompositeActionsArchive@v1
       
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v1
