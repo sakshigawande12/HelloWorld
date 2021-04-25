@@ -39,3 +39,5 @@ jobs:
 #          file: ./Dockerfile
 #          push: true
 #          tags: sakshigawande12/hello-world:latest
+      - id: myAction
+        uses: sakshigawande12/HelloWorld@v1
